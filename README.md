@@ -1,6 +1,6 @@
 # Coronavirus COVID-19 (2019-nCoV) Data Repository for South Africa
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3724083.svg)](https://doi.org/10.5281/zenodo.3724083)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3732419.svg)](https://doi.org/10.5281/zenodo.3732419)
 
 COVID 19 Data for South Africa created, maintained and hosted by [Data Science for Social Impact research group](https://dsfsi.github.io/), led by Dr. Vukosi Marivate, at the University of Pretoria. 
 
@@ -12,7 +12,10 @@ See our blog posts:
 * [Why we built this and how we are working](https://dsfsi.github.io/blog/covid19za-dashboard/),
 * [How this is a call to action across the African continent](https://dsfsi.github.io/blog/covida19africa-call-to-action/)
 
-*If you are interested in the **Africa-wide effort**:* Go to https://github.com/dsfsi/covid19africa
+*If you are interested in the **Africa-wide effort**:* Go to [https://github.com/dsfsi/covid19africa](https://github.com/dsfsi/covid19africa)
+
+For information on daily updates on the repo, go to [https://twitter.com/vukosi/status/1239184086633242630?s=20](https://twitter.com/vukosi/status/1239184086633242630?s=20)
+
 ## Licenses
 
 Code [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  | Data [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -63,21 +66,23 @@ Code [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](http
 
 
 **In a publication**
-> @dataset{marivate_vukosi_2020_3723347,
+> @dataset{marivate_vukosi_2020_3732419,
   author       = {Marivate, Vukosi and
                   de Waal, Alta and
                   Combrink, Herkulaas and
                   Lebogo, Ofentswe and
                   Moodley, Shivan and
                   Mtsweni, Nompumelelo and
-                  Rikhotso, Vuthlari},
+                  Rikhotso, Vuthlari and
+                  Welsh, Jay and
+                  Mkhondwane, S'busiso},
   title        = {{Coronavirus disease (COVID-19) case data - South 
                    Africa}},
   month        = mar,
   year         = 2020,
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.3723347},
-  url          = {[http://doi.org/10.5281/zenodo.3724083](http://doi.org/10.5281/zenodo.3724083)}
+  doi          = {10.5281/zenodo.3732419},
+  url          = {[https://doi.org/10.5281/zenodo.3732419(https://doi.org/10.5281/zenodo.3732419)}
 }
 
 ### Showcase
