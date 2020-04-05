@@ -8,3 +8,5 @@ report_id,date,YYYYMMDD,province, geo, gender, age, confirmed_date,transmission_
 7,03-04-2020,20200403,KZN,ZA-KZN,female,81,,,local transmissionm no travel history,https://www.gov.za/speeches/minister-zweli-mkhize-confirmsminister-zweli-mkhize-confirms-7-deaths-and-total-1505cases-3
 8,03-04-2020,20200403,,,,,,,,
 9,03-04-2020,20200403,,,,,,,,
+9,04-04-2020,20200404,,,,,,,,
+11,05-04-2020,20200405,,,,,,,,
